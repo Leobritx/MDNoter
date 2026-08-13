@@ -1,0 +1,12 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest",
+  "attachmentFolderPath": "attachments",
+  "spellcheck": false,
+  "showLineNumber": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showFrontmatter": false
+}
