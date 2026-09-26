@@ -35,8 +35,8 @@ tags: [home, dashboard]
 
 ## 🔗 快速入口
 
-- [[00_Inbox/📝 快速记录]]
-- [[05_Daily/今日日记]]
+- [[Inbox/📝 快速记录]]
+- [[Daily/今日日记]]
 
 ---
 
